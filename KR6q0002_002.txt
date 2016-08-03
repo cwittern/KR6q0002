@@ -9,7 +9,7 @@
 #+PROPERTY: LASTPB
 <pb:KR6q0002_Yan_002-1051a>
 祖堂集卷第二于卷內西天并震旦一十七祖已畢
-024 僧伽難提
+** 024 僧伽難提
 :PROPERTIES:
 :PERSID: ZTJ_024
 :JUAN: 002
@@ -50,7 +50,7 @@
 　理屈於師，
 　忽窮自己。
 #+END_VERSE
-025 伽耶舍多
+** 025 伽耶舍多
 :PROPERTIES:
 :PERSID: ZTJ_025
 :JUAN: 002
@@ -77,7 +77,7 @@
 #+END_VERSE
 內外絕翳，眉¶目無虧。
 風飄鐸韻，非我是誰？
-026 鳩摩羅多
+** 026 鳩摩羅多
 :PROPERTIES:
 :PERSID: ZTJ_026
 :JUAN: 002
@@ -102,7 +102,7 @@
 　肯藉鎚鉗。
 #+END_VERSE
 ¶一榻孤坐，人天禮瞻。
-027 闍夜多
+** 027 闍夜多
 :PROPERTIES:
 :PERSID: ZTJ_027
 :JUAN: 002
@@ -146,7 +146,7 @@
 ¶錫有六，田無半畝。
 言下不生，何處不普？
 垂手¶入，他方此土。
-028 婆修盤頭
+** 028 婆修盤頭
 :PROPERTIES:
 :PERSID: ZTJ_028
 :JUAN: 002
@@ -191,7 +191,7 @@
 　逢歌指和。
 #+END_VERSE
 泡幻無真，¶慮情無過。
-029 摩拏羅
+** 029 摩拏羅
 :PROPERTIES:
 :PERSID: ZTJ_029
 :JUAN: 002
@@ -214,7 +214,7 @@
 　道風千里。
 #+END_VERSE
 聲色恒¶真，何須聵耳？
-030 鶴勒
+** 030 鶴勒
 :PROPERTIES:
 :PERSID: ZTJ_030
 :JUAN: 002
@@ -235,7 +235,7 @@
 #+END_VERSE
 稽首¶
 歸依，祖林薝蔔。
-031 師子
+** 031 師子
 :PROPERTIES:
 :PERSID: ZTJ_031
 :JUAN: 002
@@ -259,7 +259,7 @@
 #+END_VERSE
 
 挫¶拉邪徒，悟真求去。
-032 婆舍斯多
+** 032 婆舍斯多
 :PROPERTIES:
 :PERSID: ZTJ_032
 :JUAN: 002
@@ -306,7 +306,7 @@
 #+END_VERSE
 傳師衣鉢，¶度物橋舡。
 當心妙見，豈假言宣？
-033 不如密多
+** 033 不如密多
 :PROPERTIES:
 :PERSID: ZTJ_033
 :JUAN: 002
@@ -329,7 +329,7 @@
 　洞鑒媸妍，
 　祖堂金鏡。
 #+END_VERSE
-034 般若多羅
+** 034 般若多羅
 :PROPERTIES:
 :PERSID: ZTJ_034
 :JUAN: 002
@@ -358,7 +358,7 @@
 　果滿菩提，
 　道源遼廓。
 #+END_VERSE
-035 菩提達摩
+** 035 菩提達摩
 :PROPERTIES:
 :PERSID: ZTJ_035
 :JUAN: 002
@@ -537,7 +537,7 @@
 　梁天不薦，
 　惠可傳衣。
 #+END_VERSE
-036 惠可
+** 036 惠可
 :PROPERTIES:
 :PERSID: ZTJ_036
 :JUAN: 002
@@ -584,7 +584,7 @@
 　人間鸑鷟。
 #+END_VERSE
 ¶斷臂立雪，混而不獨。
-037 僧璨
+** 037 僧璨
 :PROPERTIES:
 :PERSID: ZTJ_037
 :JUAN: 002
@@ -625,7 +625,7 @@
 　因地花生，
 　栴檀旖旎。
 #+END_VERSE
-038 道信
+** 038 道信
 :PROPERTIES:
 :PERSID: ZTJ_038
 :JUAN: 002
@@ -665,7 +665,7 @@
 　菓少花多，
 　忍傳衣鉢。
 #+END_VERSE
-039 弘忍
+** 039 弘忍
 :PROPERTIES:
 :PERSID: ZTJ_039
 :JUAN: 002
@@ -769,7 +769,7 @@
 　無情無種，
 　千年万年。
 #+END_VERSE
-040 慧能
+** 040 慧能
 :PROPERTIES:
 :PERSID: ZTJ_040
 :JUAN: 002
